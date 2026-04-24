@@ -13,8 +13,8 @@ import (
 	"io"
 	"math/big"
 
-	"github.com/cetcxinlian/cryptogm/sm2"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/Duanraudon/cryptogm/sm2"
+	"github.com/Duanraudon/cryptogm/x509"
 
 	"golang.org/x/crypto/curve25519"
 )

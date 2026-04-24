@@ -12,7 +12,7 @@ import (
 	"errors"
 	"fmt"
 
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/Duanraudon/cryptogm/sm2"
 )
 
 // pkcs8 reflects an ASN.1, PKCS#8 PrivateKey. See

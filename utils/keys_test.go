@@ -3,7 +3,7 @@ package utils
 import (
 	"bytes"
 	"crypto/rand"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/Duanraudon/cryptogm/sm2"
 	"testing"
 )
 

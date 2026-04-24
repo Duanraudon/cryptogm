@@ -14,7 +14,7 @@ import (
 	"encoding/pem"
 	"errors"
 	"fmt"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/Duanraudon/cryptogm/x509"
 	"io"
 	"math/big"
 	"net"

@@ -14,7 +14,7 @@ import (
 	"math"
 	"math/big"
 
-	"github.com/cetcxinlian/cryptogm/sm3"
+	"github.com/Duanraudon/cryptogm/sm3"
 )
 
 var EncryptionErr = errors.New("sm2: encryption error")
@@ -186,7 +186,7 @@ func Decrypt(c []byte, key *PrivateKey) ([]byte, error) {
 	return t, nil
 }
 
-//uncompressed form, s=04||x||y
+// uncompressed form, s=04||x||y
 func pointToBytes(x, y *big.Int) []byte {
 	buf := []byte{}
 

@@ -4,7 +4,7 @@ import (
 	"bytes"
 	"crypto/rand"
 	"encoding/base64"
-	"github.com/cetcxinlian/cryptogm/sm2"
+	"github.com/Duanraudon/cryptogm/sm2"
 	"testing"
 )
 

@@ -11,7 +11,7 @@ import (
 	"crypto/rsa"
 	"crypto/sha1"
 	"errors"
-	"github.com/cetcxinlian/cryptogm/x509"
+	"github.com/Duanraudon/cryptogm/x509"
 	"io"
 	"math/big"
 

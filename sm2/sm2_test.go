@@ -12,7 +12,7 @@ import (
 	"math/big"
 	"testing"
 
-	"github.com/cetcxinlian/cryptogm/sm3"
+	"github.com/Duanraudon/cryptogm/sm3"
 )
 
 func TestKeyGen(t *testing.T) {
